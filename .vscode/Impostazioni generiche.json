@@ -1,0 +1,5 @@
+{
+    // Impostazioni di VS Code //
+    "workbench.colorTheme": "One Dark Pro",
+    "editor.wordWrap": "on"    
+}
