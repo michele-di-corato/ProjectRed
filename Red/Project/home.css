@@ -121,8 +121,17 @@ h2 {
   left: 0;
   width: 100%;
 }
+.extra-margin {
+  margin-top: 150px;
+}
+.margin-extra {
+  margin-bottom: 3rem;
+  margin-left: 3rem;
+  margin-right: 3rem;
+  margin-top: 150px;
+}
 .vh-50 {
-  height: 45vh;
+  height: 60vh;
 }
 h3 {
   color: var(--sec);
