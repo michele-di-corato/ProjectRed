@@ -163,3 +163,22 @@ h4 {
 .profile {
   font-weight: 600;
 }
+.bi {
+  color: var(--sec);
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+}
+.fog {
+  height: 220px;
+  width: 220px;
+  padding: 0.5rem;
+  border-radius: 220px;
+  border: 4px solid darkred;
+  margin-left: 15vw;
+}
+footer {
+  background-color: var(--sec);
+}
+.text-white {
+  font-weight: 500;
+}
