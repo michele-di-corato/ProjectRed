@@ -42,7 +42,7 @@ header {
 }
 #overhead {
   left: 0;
-  bottom: -125px;
+  bottom: -140px;
 }
 #sub {
   font-size: 25px;
@@ -149,4 +149,17 @@ h3 {
   bottom: 0;
   right: 0;
   width: 50%;
+}
+.p-icon {
+  height: 150px;
+  width: 150px;
+  padding: 0.5rem;
+  border-radius: 150px;
+  border: 4px solid darkred;
+}
+h4 {
+  color: var(--sec);
+}
+.profile {
+  font-weight: 600;
 }
